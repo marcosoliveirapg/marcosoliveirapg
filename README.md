@@ -2,7 +2,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi, com foco em dados. Trabalho com **tráfego pago, estratégia digital e análise de dados** na [Grafo.Studio](https://grafostudio.com.br), em Aracaju/SE.
 
-Antes de qualquer título, sou vendedor. Comecei a programar para entregar sites e soluções melhores para os clientes, e hoje uso o GitHub para registrar essa evolução.
+Antes de qualquer título, sou vendedor. Comecei a programar para criar soluções melhores para os meus clientes, trazendo mais previsibilidade e praticidade para o negócio e, no fim, mais faturamento. Aqui registro essa evolução.
 
 ## 📚 Aprendendo agora
 
