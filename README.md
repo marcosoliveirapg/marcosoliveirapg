@@ -65,10 +65,6 @@ Sites institucionais e landing pages feitos sob medida e publicados para cliente
 - **ARE**: site de marca de moda masculina
 - **Grafo.Studio**: landing page de agência de marketing
 
-**Estudos**
-
-- [Calculadora de IMC](https://github.com/marcosoliveirapg/calcimcJ): meu primeiro projeto em HTML, CSS e JavaScript. [Ver online](https://calcimc-j.vercel.app)
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-oliveira-32b896408)
