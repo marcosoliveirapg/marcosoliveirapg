@@ -2,7 +2,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi. Desenvolvo **sistemas web com IA e automação** que resolvem problemas reais de operação: gestão pública, vendas e serviços em campo. Sou sócio da [Grafo.Studio](https://grafostudio.com.br), em Aracaju/SE.
 
-Antes de qualquer título, sou vendedor. Comecei a programar para criar soluções melhores para os meus clientes, e hoje construo os sistemas de ponta a ponta: interface, banco de dados, segurança, deploy e os agentes de IA que trabalham dentro deles.
+Antes de qualquer título, sou vendedor. Comecei a programar para criar soluções melhores para os meus clientes, e hoje construo os sistemas de ponta a ponta: interface, banco de dados, segurança e os agentes de IA que trabalham dentro deles.
 
 ## 🚀 Sistemas em produção
 
