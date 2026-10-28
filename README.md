@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi. Desenvolvo **sistemas web com IA e automação** que resolvem problemas reais de operação: gestão pública, vendas e serviços em campo. Sou sócio da [Grafo.Studio](https://grafostudio.com.br), em Aracaju/SE.
+Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi. Desenvolvo **sistemas web com IA e automação** que resolvem problemas reais de operação: gestão pública, vendas e serviços em campo.
 
 Antes de qualquer título, sou vendedor. Comecei a programar para criar soluções melhores para os meus clientes, e hoje construo os sistemas de ponta a ponta: interface, banco de dados, segurança e os agentes de IA que trabalham dentro deles.
 
@@ -56,7 +56,7 @@ Sistema em uso na Secretaria Municipal de Saúde de Aracaju para contratos, nota
 
 ## 🌐 Outros projetos
 
-- Sites para clientes da Grafo.Studio: hamburgueria, barbearia, pizzaria, evento de e-sports e marca de moda masculina
+- Sites para clientes: hamburgueria, barbearia, pizzaria, evento de e-sports e marca de moda masculina
 - [Calculadora de IMC](https://github.com/marcosoliveirapg/calcimcJ): meu primeiro projeto em HTML, CSS e JavaScript. [Ver online](https://calcimc-j.vercel.app)
 
 ## 📫 Contato
