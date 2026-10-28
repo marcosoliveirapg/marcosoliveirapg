@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi. Desenvolvo **sistemas web com IA e automação** que resolvem problemas reais de operação: gestão pública, vendas e serviços em campo.
+Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi. Desenvolvo **sistemas web com IA e automação** que resolvem problemas reais de operação: gestão pública, vendas e serviços em campo. Também gosto muito de **análise de dados** e estou me aprofundando nessa área.
 
 Antes de qualquer título, sou vendedor. Comecei a programar para criar soluções melhores para os meus clientes, e hoje construo os sistemas de ponta a ponta: interface, banco de dados, segurança e os agentes de IA que trabalham dentro deles.
 
@@ -36,6 +36,13 @@ Sistema em uso na Secretaria Municipal de Saúde de Aracaju para contratos, nota
 - Agentes com a **Claude API** e chamada de ferramentas dentro dos sistemas
 - Agentes de atendimento no WhatsApp com **n8n**
 - Desenvolvimento assistido por IA com **Claude Code** e subagentes especializados (banco, front-end, segurança)
+
+## 📊 Análise de dados
+
+Área que gosto e que estou estudando de forma contínua. Já uso dados no dia a dia, analisando resultados de campanhas de tráfego pago e montando dashboards e relatórios nos sistemas que desenvolvo.
+
+- Estudando agora: SQL para análise, Python (Pandas) e visualização de dados
+- Próximo passo: publicar aqui projetos de análise com dados abertos
 
 ## 🛠️ Tecnologias
 
