@@ -1,8 +1,8 @@
 # Olá, eu sou o Marcos 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi. Desenvolvo **sistemas web com IA e automação** que resolvem problemas reais de operação, como gestão pública e vendas. Também gosto muito de **análise de dados** e estou me aprofundando nessa área.
+Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi. Desenvolvo **sistemas web e automações** que resolvem problemas reais de operação, como gestão pública e vendas. Também gosto muito de **análise de dados** e estou me aprofundando nessa área.
 
-Antes de qualquer título, sou vendedor. Comecei a programar para criar soluções melhores para os meus clientes, e hoje construo os sistemas de ponta a ponta: interface, banco de dados, segurança e os agentes de IA que trabalham dentro deles.
+Antes de qualquer título, sou vendedor. Comecei a programar para criar soluções melhores para os meus clientes, e hoje construo os sistemas de ponta a ponta: interface, banco de dados, segurança e automações.
 
 ## 🏆 Cases de sucesso
 
@@ -10,12 +10,11 @@ Sistemas já entregues e em uso pelos clientes. Os repositórios são privados (
 
 ### Measure · Gestão de Contratos Públicos
 Sistema usado pela Secretaria Municipal de Saúde de Aracaju para contratos, notas fiscais e atestos, empenhos, fornecedores, patrimônio, estoque, ordens de serviço e demandas.
-- **Agente de IA "Monitor de Notas Fiscais"** com a API do Claude e *tool use*: busca os dados por uma ferramenta e aponta notas ausentes no mês, variações acima de 20% da média de 6 meses, duplicidades e contratos perto do vencimento.
 - Multi-tenant por coordenação com **Row Level Security** no Postgres, perfis de acesso e testes automatizados das regras do banco.
 - Automações com Edge Functions e pg_cron: alertas de vencimento, notificações por e-mail, consulta de CNPJ e CEP.
 - Cuidados de **LGPD** e CI com build, testes e auditoria de dependências.
 
-`React` `Vite` `Tailwind` `Supabase` `PostgreSQL` `Claude API` `Vercel` `GitHub Actions`
+`React` `Vite` `Tailwind` `Supabase` `PostgreSQL` `Vercel` `GitHub Actions`
 
 ### Qyro One · CRM para empresas de consórcio
 CRM usado por empresa de consórcio para organizar todo o ciclo comercial, do primeiro contato no WhatsApp ao contrato.
@@ -24,12 +23,6 @@ CRM usado por empresa de consórcio para organizar todo o ciclo comercial, do pr
 - API própria para o n8n com operações idempotentes, testes de banco (pgTAP) e unitários (Vitest).
 
 `Next.js` `TypeScript` `Supabase` `n8n` `Evolution API` `Zod` `Vitest`
-
-## 🤖 Como eu trabalho com IA
-
-- Agentes com a **Claude API** e chamada de ferramentas dentro dos sistemas
-- Agentes de atendimento no WhatsApp com **n8n**
-- Desenvolvimento assistido por IA com **Claude Code** e subagentes especializados (banco, front-end, segurança)
 
 ## 📊 Análise de dados
 
