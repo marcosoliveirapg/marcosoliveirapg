@@ -1,4 +1,19 @@
-# Olá, eu sou o Marcos 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c2d12,100:F97316&height=200&section=header&text=Marcos%20Oliveira&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Sistemas%20web%20%C2%B7%20Automa%C3%A7%C3%B5es%20%C2%B7%20Dados&descAlignY=58&descSize=18" width="100%" alt="Marcos Oliveira" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=620&lines=Antes+de+qualquer+t%C3%ADtulo%2C+sou+vendedor;Sistemas+web+de+ponta+a+ponta;Automa%C3%A7%C3%B5es+com+IA+no+WhatsApp;Tr%C3%A1fego+pago+e+an%C3%A1lise+de+dados;Sites+sob+medida+para+neg%C3%B3cios+locais" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/marcos-oliveira-32b896408"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hi.marcosoliveira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://grafostudio.com.br"><img src="https://img.shields.io/badge/grafostudio.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Grafo.Studio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=marcosoliveirapg&label=Visitas&color=F97316&style=for-the-badge" alt="Visitas" />
+</p>
+
+</div>
+
+## 👋 Olá, eu sou o Marcos
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi. Desenvolvo **sistemas web e automações** que resolvem problemas reais de operação, como gestão pública e vendas. Também gosto muito de **análise de dados** e estou me aprofundando nessa área.
 
@@ -24,6 +39,19 @@ CRM usado por empresa de consórcio para organizar todo o ciclo comercial, do pr
 
 `Next.js` `TypeScript` `Supabase` `n8n` `Evolution API` `Zod` `Vitest`
 
+## 🌐 Sites desenvolvidos
+
+Sites institucionais e landing pages feitos sob medida e publicados para clientes:
+
+| Site | Sobre | Links |
+| --- | --- | --- |
+| 🍔 **Scape Burguer** | Hamburgueria temática de terror, com animação de montagem do hambúrguer no scroll | [Ver site](https://www.scapeburguer.com.br) · [Código](https://github.com/marcosoliveirapg/scape-burguer-site) |
+| 💈 **Barbearia Pai e Filho** | Barbearia na Farolândia, com efeitos 3D e de rolagem | [Ver site](https://pai-e-filho-barbearia.vercel.app) · [Código](https://github.com/marcosoliveirapg/pai-e-filho-barbearia) |
+| 🍕 **Di Pietro Pizza Bar** | Pizzaria em Aracaju, com cardápio online integrado | [Ver site](https://www.dipietropizzabar.com.br) · [Código](https://github.com/marcosoliveirapg/dipietro-site) |
+| 🎮 **Hitech Gamer Challenge** | Evento de e-sports com contagem regressiva, premiação e inscrições | [Ver site](https://hitechgamerchallenge.vercel.app) · [Código](https://github.com/marcosoliveirapg/hitechgamerchallenge) |
+| 👕 **ARE Basics** | Marca de moda masculina, com catálogo e reservas | [Ver site](https://www.arebasics.com.br) |
+| 🎬 **Grafo.Studio** | Landing page da minha agência de marketing | [Ver site](https://grafostudio.com.br) |
+
 ## 📊 Análise de dados
 
 Área que gosto e que estou estudando de forma contínua. Já uso dados no dia a dia, analisando resultados de campanhas de tráfego pago e montando dashboards e relatórios nos sistemas que desenvolvo.
@@ -33,33 +61,23 @@ CRM usado por empresa de consórcio para organizar todo o ciclo comercial, do pr
 
 ## 🛠️ Tecnologias
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,postgres,supabase,git,githubactions,vercel,html,css&perline=13" alt="Tecnologias" />
+</p>
 
-## 🌐 Sites desenvolvidos
+<p>
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Evolution%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Evolution API" />
+  <img src="https://img.shields.io/badge/Meta%20Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
+</p>
 
-Sites institucionais e landing pages feitos sob medida e publicados para clientes:
+## 🔥 Atividade
 
-- **Scape Burguer**: site de hamburgueria temática de terror
-- **Barbearia Pai e Filho**: site de barbearia
-- **Di Pietro Pizza Bar**: site de pizzaria
-- **Hitech Gamer Challenge**: site de evento de e-sports
-- **ARE**: site de marca de moda masculina
-- **Grafo.Studio**: landing page de agência de marketing
+<div align="center">
 
-## 📫 Contato
+<img src="https://streak-stats.demolab.com?user=marcosoliveirapg&theme=tokyonight&hide_border=true&locale=pt_BR&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="Sequência de contribuições" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-oliveira-32b896408)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi.marcosoliveira@gmail.com)
-[![Site](https://img.shields.io/badge/grafostudio.com.br-111111?style=flat&logo=googlechrome&logoColor=white)](https://grafostudio.com.br)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:7c2d12,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" alt="" />
