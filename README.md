@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c2d12,100:F97316&height=200&section=header&text=Marcos%20Oliveira&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Sistemas%20web%20%C2%B7%20Automa%C3%A7%C3%B5es%20%C2%B7%20Dados&descAlignY=58&descSize=18" width="100%" alt="Marcos Oliveira" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=620&lines=Antes+de+qualquer+t%C3%ADtulo%2C+sou+vendedor;Sistemas+web+de+ponta+a+ponta;Automa%C3%A7%C3%B5es+com+IA+no+WhatsApp;Tr%C3%A1fego+pago+e+an%C3%A1lise+de+dados;Sites+sob+medida+para+neg%C3%B3cios+locais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=620&lines=Desenvolvimento+com+foco+em+resultado;Sistemas+web+de+ponta+a+ponta;Automa%C3%A7%C3%B5es+com+IA+no+WhatsApp;Tr%C3%A1fego+pago+e+an%C3%A1lise+de+dados;Sites+sob+medida+para+neg%C3%B3cios+locais" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/marcos-oliveira-32b896408"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +17,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi. Desenvolvo **sistemas web e automações** que resolvem problemas reais de operação, como gestão pública e vendas. Também gosto muito de **análise de dados** e estou me aprofundando nessa área.
 
-Antes de qualquer título, sou vendedor. Comecei a programar para criar soluções melhores para os meus clientes, e hoje construo os sistemas de ponta a ponta: interface, banco de dados, segurança e automações.
+Comecei a programar para resolver problemas reais de negócios locais, e hoje construo sistemas de ponta a ponta: interface, banco de dados, segurança e automações. Como também atuo com tráfego pago, desenvolvo pensando em resultado: mais clientes, menos trabalho manual e dados para decidir.
 
 ## 🏆 Cases de sucesso
 
@@ -46,9 +46,7 @@ Sites institucionais e landing pages feitos sob medida e publicados para cliente
 | Site | Sobre | Links |
 | --- | --- | --- |
 | 🍔 **Scape Burguer** | Hamburgueria temática de terror, com animação de montagem do hambúrguer no scroll | [Ver site](https://www.scapeburguer.com.br) · [Código](https://github.com/marcosoliveirapg/scape-burguer-site) |
-| 💈 **Barbearia Pai e Filho** | Barbearia na Farolândia, com efeitos 3D e de rolagem | [Ver site](https://pai-e-filho-barbearia.vercel.app) · [Código](https://github.com/marcosoliveirapg/pai-e-filho-barbearia) |
 | 🍕 **Di Pietro Pizza Bar** | Pizzaria em Aracaju, com cardápio online integrado | [Ver site](https://www.dipietropizzabar.com.br) · [Código](https://github.com/marcosoliveirapg/dipietro-site) |
-| 🎮 **Hitech Gamer Challenge** | Evento de e-sports com contagem regressiva, premiação e inscrições | [Ver site](https://hitechgamerchallenge.vercel.app) · [Código](https://github.com/marcosoliveirapg/hitechgamerchallenge) |
 | 👕 **ARE Basics** | Marca de moda masculina, com catálogo e reservas | [Ver site](https://www.arebasics.com.br) |
 | 🎬 **Grafo.Studio** | Landing page da minha agência de marketing | [Ver site](https://grafostudio.com.br) |
 
